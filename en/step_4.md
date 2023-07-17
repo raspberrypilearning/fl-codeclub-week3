@@ -3,7 +3,7 @@
 
 An extracurricular activity like Code Club can be a great place to try new things and experiment — this is why it's important to create a safe environment where getting things wrong and trying again is OK.
 
-Here, [James Robinson](https://www.futurelearn.com/profiles/3565197), Senior Learning Manager at Raspberry Pi, explains the importance and value of learning from failure.
+Here, [James Robinson](https://www.futurelearn.com/profiles/3565197){:target="_blank"}, Senior Learning Manager at Raspberry Pi, explains the importance and value of learning from failure.
 
 * * *
 
@@ -14,12 +14,16 @@ With a fixed mindset, learners perceive their capacity for understanding to be s
 
 Conversely, those with a growth mindset see learning as an ongoing process where new skills simply haven’t been learnt yet. Failures become part of the journey which, if examined and understood, only help to secure the learners’ understanding. Each minor success is also rightly celebrated, building the learner’s confidence and spurring them on further.
 
-# Discussion
+# Reflection
 
-The young people you will be supporting in your club will mostly be at the start of their journey into learning digital making. Think of a time when you were learning something new or when you made something new — perhaps something like a recipe, a language, an instrument, a piece of furniture, an item of clothing, or something electronic or online.
+The young people you will be supporting in your club will mostly be at the start of their journey into learning digital making. 
+
+--- task ---
+
+Think of a time when you were learning something new or when you made something new — perhaps something like a recipe, a language, an instrument, a piece of furniture, an item of clothing, or something electronic or online.
 
 + How did it make you feel when you completed it or achieved a goal?
 + Did you make it correctly first time, or were their any bumps in your journey?
 + What did you learn from the experience?
 
-Share your response by clicking **Comments** below.
+--- /task ---

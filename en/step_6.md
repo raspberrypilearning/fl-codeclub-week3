@@ -16,9 +16,11 @@ It will take a little time to show and tell with every member of your club, so y
 ## Choose some star coders
 Alternatively, you could choose two or three 'star coders' from the group to show their progress. Remember that these don't necessarily have to be the club members who have impressive outcomes — they could also be those who've solved problems well or who tried to create something innovative, even if it didn't succeed.
 
-> *We give out a ‘star coder’ award at the end of each session. This is for a child who has gone beyond what they’ve previously achieved or who really wowed us with the way they have worked. You could give out stickers, but we give out 3D-printed keyrings, which a local makerspace helps us produce.
-I make sure to sometimes give a ‘star coder’ award to a child who tried something ambitious and didn’t quite get it to work or who found that the approach they had taken wasn’t possible. There’s often much more learning in these situations than in the ones where everything just works.*
-**— Tracy Gardner, Code Club leader, Oliver's Battery Primary School, Winchester**
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+We give out a ‘star coder’ award at the end of each session. This is for a child who has gone beyond what they’ve previously achieved or who really wowed us with the way they have worked. You could give out stickers, but we give out 3D-printed keyrings, which a local makerspace helps us produce.
+I make sure to sometimes give a ‘star coder’ award to a child who tried something ambitious and didn’t quite get it to work or who found that the approach they had taken wasn’t possible. There’s often much more learning in these situations than in the ones where everything just works.<br><br>
+<span style= "text-align:right; background-color: aliceblue; padding: 10px;">— Tracy Gardner, Code Club leader, Oliver's Battery Primary School, Winchester</span>
+</p>
 
 ## Ask for volunteers
 If you'd prefer to ask for volunteers for a show-and-tell, then you can do so — just make sure you don't get the same three keen coders each time!

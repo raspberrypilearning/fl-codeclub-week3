@@ -1,13 +1,35 @@
-!!! Resources
-
-   + [Video](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step3_3+club+rules.mp4)
-   + [Video subtitles - English](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/3.3_club_rules.vtt)
-   + [Video subtitles - French](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/3_3_club_rules_French__France__reviewed.vtt)
-   + [Video subtitles - Italian](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/3_3_club_rules_Italian_reviewed.vtt)
-   + [Video subtitles - Portuguese](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/3_3_club_rules_Portuguese__Brazil__reviewed.vtt)
-   + [Video subtitles - Spanish](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/3_3_club_rules_Spanish__Spain__reviewed.vtt)
-
 ## Club rules
+
+<video width="100%" height="600" id="Introduction video" controls preload="metadata"
+  source src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step3_3+club+rules.mp4" type="video/mp4" >
+  <track
+    label="English"
+    kind="subtitles"
+    srclang="en"
+    src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/3.3_club_rules.vtt"
+    default />
+  <track
+    label="Francais"
+    kind="subtitles"
+    srclang="fr"
+    src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/3_3_club_rules_French__France__reviewed.vtt" />
+  <track
+    label="Español"
+    kind="subtitles"
+    srclang="es"
+    src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/3_3_club_rules_Spanish__Spain__reviewed.vtt" />
+  <track
+    label="Italiano"
+    kind="subtitles"
+    srclang="it"
+    src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/3_3_club_rules_Italian_reviewed.vtt" />
+  <track
+    label="Portugues"
+    kind="subtitles"
+    srclang="pr"
+    src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/3_3_club_rules_Portuguese__Brazil__reviewed.vtt" />
+</video>
+
 
 Depending on your club and the young people who attend, you may find it beneficial to create some simple club rules.
 
