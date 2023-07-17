@@ -13,13 +13,17 @@ Lots of clubs print out a 'Welcome to Code Club' sign and put it up on their clu
 
 If you do have more space on your club walls, you could also put up posters about coding for inspiration.
 
-![Code Club posters on a club wall](https://s3-eu-west-1.amazonaws.com/rpf-futurelearn/CC+vol+training+/Wormit+Code+Club+display.jpg)
-*Code Club posters on the wall of a club space*
+![Code Club posters on a club wall](https://s3-eu-west-1.amazonaws.com/rpf-futurelearn/CC+vol+training+/Wormit+Code+Club+display.jpg){:target="_blank"}
 
 Another idea could be to have a 'Coder of the Week' display with the name of the club member who has made the most progress.
 
 We'll be talking more about rewarding progress in this way in step 3.6 of this week.
 
-# Discussion
+# Reflection
 
-What does your club space look like? How do you think you could decorate it so that it becomes more inspirational for your club members? Describe your space and your ideas using the **Comments** link below.
+--- task ---
+
+What does your club space look like? How do you think you could decorate it so that it becomes more inspirational for your club members?
+
+--- /task ---
+

@@ -1,4 +1,3 @@
-
 ## Peer mentoring
 
 Many Code Clubs have young people as helpers in addition to adult helpers.
@@ -17,8 +16,10 @@ Many clubs find that the young people who have been attending the club for a whi
 
 Once again, be clear on what the role of 'club helper' will involve, so that the helpers are aware that this is a bit different to attending the club. You can think about giving them a great 'job title' to boost their confidence too, such as Code Club Expert.
 
-> *We get our Code Club Experts to teach the younger ones to take the laptops back to the laptop rack themselves and make sure they’re plugged in!*
-**— Adam Cohen-Rose, Code Club Leader, Fleetville Junior School, Hertfordshire**
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+We get our Code Club Experts to teach the younger ones to take the laptops back to the laptop rack themselves and make sure they’re plugged in!<br><br>
+<span style= "text-align:right; background-color: aliceblue; padding: 10px;">— Adam Cohen-Rose, Code Club Leader, Fleetville Junior School, Hertfordshire</span>
+</p>
 
 ## A little help from your friends
 
