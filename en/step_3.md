@@ -45,7 +45,6 @@ If you have club members starting all the time, why not ask new members to read 
 You could even get each club member to sign the copy of the club rules on the wall.
 
 ![Club Rules](https://s3-eu-west-1.amazonaws.com/rpf-futurelearn/CC+vol+training+/ClubRules.png)
-*Listen and be helpful: club rules on a classroom wall*
 
 Here are a few rules that you might like to include:
 
