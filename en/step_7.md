@@ -1,4 +1,3 @@
-
 ## Sharing young people’s work responsibly
 
 There are plenty of ways in which you could share your club members' work outside the club so that  parents, relatives, or your local community can celebrate and enjoy it too.

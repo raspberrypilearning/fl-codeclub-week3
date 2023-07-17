@@ -1,10 +1,12 @@
-
 ## Show and tell
 
 Spending a few minutes at the end of a session on a show-and-tell is great for sharing good ideas amongst your learners and also for helping them feel like a team if they have been working individually.
 
-> *At the end of the club session, we spend a few minutes sharing what we have achieved by linking student laptops to the interactive whiteboard. It's great to see how people have completed the same project in different ways.*
-**— Simon Hall, Code Club leader, Little London Primary School, Leeds**
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+At the end of the club session, we spend a few minutes sharing what we have achieved by linking student laptops to the interactive whiteboard. It's great to see how people have completed the same project in different ways.
+<br><br>
+<span style= "text-align:right; background-color: aliceblue; padding: 10px;">— Simon Hall, Code Club leader, Little London Primary School, Leeds</span>
+</p>
 
 Before you try it the first time, have a think about how it might work. Are you going to give every learner the chance to show their progress or only a few? And if you have only a few do a show-and-tell, will they be volunteers or will you choose them?
 

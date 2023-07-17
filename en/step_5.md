@@ -1,4 +1,3 @@
-
 ## Certificates and motivation
 
 Celebrating success with your club is really important and helps to keep everyone motivated.

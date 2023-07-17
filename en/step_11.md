@@ -1,9 +1,8 @@
-
 ## Including parents and family learning
 
 Including parents or guardians in the activities that your Code Club provides is a great way to showcase the brilliant skills that your club members are gaining as well as to encourage the wider community to get hands-on with digital making!
 
-[Lorna Gibson](https://www.futurelearn.com/profiles/7091216), Code Club Programme Manager and Code Club leader, explains how her Code Club members got their grown-ups involved in coding.
+[Lorna Gibson](https://www.futurelearn.com/profiles/7091216){:target="_blank"}, Code Club leader, explains how her Code Club members got their grown-ups involved in coding.
 
 * * *
 
@@ -18,7 +17,6 @@ I’ve always been a fan of a child-led idea, so we started to plan a session fo
 Since we had been running sessions at the end of the Christmas and summer terms where the children had the opportunity to showcase what they had made and learnt to their families, we decided to change things up a little by turning the next scheduled showcase into a family coding session.
 
 ![Lorna at her Code Club](https://s3-eu-west-1.amazonaws.com/rpf-futurelearn/CC+vol+training+/Lorna+at+Wormit.jpg)
-*Lorna at her Code Club*
 
 The parents were invited, and on the day of the session, each child supported a parent, aunt, uncle, childminder, teacher, grandparent, or older sibling to complete an hour of coding.
 

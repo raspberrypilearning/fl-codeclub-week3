@@ -1,4 +1,3 @@
-
 ## Learning from success and failure
 
 An extracurricular activity like Code Club can be a great place to try new things and experiment — this is why it's important to create a safe environment where getting things wrong and trying again is OK.
