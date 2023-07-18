@@ -9,13 +9,19 @@ steps:
   - title: Introduction to Week 3
   - title: Creating a great club space
   - title: Club rules
+    completion:
+      - engaged
   - title: Learning from success and failure
   - title: Certificates and motivation
   - title: Show and tell
   - title: Sharing young people’s work responsibly
   - title: Onwards and upwards!
+    completion:
+      - internal
   - title: Using additional hardware in your club
   - title: Peer mentoring
   - title: Including parents and family learning
   - title: Community and support
+    completion:
+      - external
   - title: Welcome to the Code Club Community!
